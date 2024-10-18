@@ -1,0 +1,18 @@
+[
+  {
+    "role": "BST comittee",
+    "organisation": "Schematics",
+    "startDate": "Feb, 2023",
+    "endDate": "Nov, 2024",
+    "experiences": ["Worked on the Materials and Bootcamp related stuff", "Spotlighter when bootcamp starts", "Making the powerpoints"],
+    "imageSrc": "history/schematics.jpg"
+  },
+  {
+    "role": "Article maker",
+    "organisation": "Chronicles",
+    "startDate": "May, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked on bunch of articles"],
+    "imageSrc": "history/cronicle.png"
+  }
+]
